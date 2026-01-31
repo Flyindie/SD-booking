@@ -1,7 +1,6 @@
-import Home from "./page/home"
+import Home from "./page/Home"
 import Buy from "./page/Buy"
 import { Routes, Route } from 'react-router-dom'
-
 
 export default function App() {
   
